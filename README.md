@@ -1,5 +1,4 @@
 # Frontend Developer
-[![HitCount](http://hits.dwyl.com/michaeltomasik/{michaeltomasik}.svg)](http://hits.dwyl.com/{michaeltomasik}/{michaeltomasik}) 
 
 ## Table of contents :notebook:
 - [Introduction](#introduction-page_with_curl)
